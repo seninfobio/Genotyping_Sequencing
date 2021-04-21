@@ -1,5 +1,5 @@
 # Genotype_Sequencing
-[Histogram in ggPlot_Default ggplot2 and base R histograms](https://r-charts.com/distribution/histogram-sturges-ggplot2/)
+[Default ggplot2 and base R histograms](https://r-charts.com/distribution/histogram-sturges-ggplot2/)
 
 
 # References
