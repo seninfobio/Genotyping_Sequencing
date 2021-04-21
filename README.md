@@ -1,4 +1,5 @@
 # Genotype_Sequencing
+[Histogram in ggPlot](https://r-charts.com/distribution/histogram-sturges-ggplot2/)
 
 
 # References
